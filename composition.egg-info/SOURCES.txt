@@ -1,0 +1,8 @@
+setup.py
+composition/__init__.py
+composition/data_provider.py
+composition/new_data_provider.py
+composition.egg-info/PKG-INFO
+composition.egg-info/SOURCES.txt
+composition.egg-info/dependency_links.txt
+composition.egg-info/top_level.txt
